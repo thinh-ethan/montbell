@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T17:40:35.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="dPruP5rwtOdNN7IIlxf-" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T17:43:06.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="0k7jjrYpfZnsDs5Tqygl" version="15.4.3" type="github">
   <diagram id="AatjL-a4eU6nJETNqXJs" name="Page-1">
     <mxGraphModel dx="1935" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EWHabAM2vr0j7ePy4UxX-1" value="m_lodging_facility" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#333333;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="80" width="250" height="250" as="geometry" />
+          <mxGeometry x="-780" y="230" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="EWHabAM2vr0j7ePy4UxX-2" value="" style="group" parent="EWHabAM2vr0j7ePy4UxX-1" vertex="1" connectable="0">
           <mxGeometry x="130" y="30" width="110" height="216" as="geometry" />
@@ -157,7 +157,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="EWHabAM2vr0j7ePy4UxX-89" value="施設マスタ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="50" width="250" height="30" as="geometry" />
+          <mxGeometry x="-780" y="200" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1" value="施設・サイト画像マスタ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-280" y="50" width="280" height="30" as="geometry" />
@@ -974,6 +974,12 @@
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1236" value="&lt;span&gt;aaa&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3370" y="460" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNWc2fwv66Wsc-9iDNfM-1237" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="35" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNWc2fwv66Wsc-9iDNfM-1238" value="montbell booking db" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=15;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-780" y="50" width="160" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
