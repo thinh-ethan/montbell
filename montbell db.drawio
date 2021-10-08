@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T01:16:51.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="kWlSJZ8YSkDYQUgtEjPj" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T01:23:42.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="QxVFzpz_rdgZHSA4hW7K" version="15.4.3" type="github">
   <diagram id="AatjL-a4eU6nJETNqXJs" name="Page-1">
     <mxGraphModel dx="2857" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
           <mxGeometry x="-286.89" y="640" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-989" value="&lt;span&gt;m_lodging_facility_category&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="6220" y="81.5" width="341.89" height="59" as="geometry" />
+          <mxGeometry x="331.23" y="1001" width="341.89" height="59" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-990" value="facility_category_id" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-989" vertex="1">
           <mxGeometry y="33" width="150" height="24" as="geometry" />
@@ -380,10 +380,10 @@
           <mxGeometry x="176" y="33" width="126.87" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1010" value="&lt;span&gt;施設カテゴリマスタ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="6220" y="50.5" width="340" height="30" as="geometry" />
+          <mxGeometry x="331.23" y="970" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1099" value="&lt;span&gt;m_lodging_user_price&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="329.34000000000003" y="1151" width="341.89" height="219" as="geometry" />
+          <mxGeometry x="331.23" y="1251" width="341.89" height="219" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1100" value="user_price_id" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1099" vertex="1">
           <mxGeometry y="33" width="110" height="24" as="geometry" />
@@ -428,7 +428,7 @@
           <mxGeometry x="176.54999999999995" y="182" width="123.45" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1120" value="&lt;span&gt;利用者料金マスタ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="329.34000000000003" y="1120" width="340" height="30" as="geometry" />
+          <mxGeometry x="331.23" y="1220" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1121" value="&lt;span&gt;m_lodging_facility_by_category&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="-286.89" y="1001" width="341.89" height="89" as="geometry" />
@@ -557,7 +557,7 @@
           <mxGeometry x="2125" y="460" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1197" value="&lt;span&gt;m_lodging_regulations&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="-1101.8899999999999" y="721" width="341.89" height="109" as="geometry" />
+          <mxGeometry x="-859.9999999999999" y="721" width="341.89" height="109" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1198" value="regulations_id" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1197" vertex="1">
           <mxGeometry y="33" width="140" height="24" as="geometry" />
@@ -578,7 +578,7 @@
           <mxGeometry x="176.55667045963932" y="60" width="128.9665873590566" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1216" value="&lt;span&gt;予約規約マスタ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-1101.8899999999999" y="690" width="340" height="30" as="geometry" />
+          <mxGeometry x="-859.9999999999999" y="690" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1217" value="&lt;span&gt;t_lodging_reserve_facility&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3430" y="486.5" width="341.89" height="109" as="geometry" />
@@ -611,7 +611,7 @@
           <mxGeometry x="-825" y="-110" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1240" value="&lt;div&gt;このテーブルは管理画面での管理は行いません。&amp;nbsp;&lt;/div&gt;&lt;div&gt;Bảng này không được quản lý trên màn hình quản lý.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-1101.8899999999999" y="650" width="340" height="40" as="geometry" />
+          <mxGeometry x="-859.9999999999999" y="650" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1241" value="&lt;span&gt;t_lodging_reserve&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="2730" y="491" width="341.89" height="109" as="geometry" />
@@ -806,7 +806,7 @@
           <mxGeometry x="-286.89" y="1430" width="381.89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1343" value="&lt;span&gt;t_lodging_reserve_option&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="324.34" y="1492" width="341.89" height="159" as="geometry" />
+          <mxGeometry x="328.4" y="1601" width="341.89" height="159" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1344" value="reserve_no" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1343" vertex="1">
           <mxGeometry y="33" width="140" height="24" as="geometry" />
@@ -839,7 +839,7 @@
           <mxGeometry x="176.55667045963932" y="60" width="128.9665873590566" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1362" value="&lt;span&gt;受付区画別オプションテーブル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="324.34" y="1461" width="340" height="30" as="geometry" />
+          <mxGeometry x="328.4" y="1570" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1363" value="&lt;span&gt;t_lodging_reserve_as_header&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="920" y="871" width="341.89" height="159" as="geometry" />
@@ -1225,6 +1225,19 @@
               </Array>
               <mxPoint x="320" y="660" as="sourcePoint" />
               <mxPoint y="390" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="aZ.SwLaBgXGg" id="JF0rJCC3cY33o7EvtoHo-14">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=ERmany;startSize=10;;endArrow=ERone;endSize=16;;" edge="1" parent="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="120" y="1060" />
+                <mxPoint x="200" y="1060" />
+                <mxPoint x="200" y="1030" />
+              </Array>
+              <mxPoint x="60" y="1060" as="sourcePoint" />
+              <mxPoint x="330" y="1030" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
