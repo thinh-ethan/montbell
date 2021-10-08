@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T02:27:46.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="fnQBvCbKuLmmSvdL-Qk4" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T02:30:34.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="pSZFBRlouklXtV_Xz1Pf" version="15.4.3" type="github">
   <diagram id="AatjL-a4eU6nJETNqXJs" name="Page-1">
     <mxGraphModel dx="2857" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -581,7 +581,7 @@
           <mxGeometry x="-915.9499999999999" y="690" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1217" value="&lt;span&gt;t_lodging_reserve_facility&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="3430" y="486.5" width="341.89" height="109" as="geometry" />
+          <mxGeometry x="3070" y="72.5" width="341.89" height="109" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1218" value="reserve_no" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1217" vertex="1">
           <mxGeometry y="33" width="140" height="24" as="geometry" />
@@ -602,7 +602,7 @@
           <mxGeometry x="176.55667045963932" y="60" width="128.9665873590566" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1236" value="&lt;span&gt;受付施設情報テーブル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="3430" y="455.5" width="340" height="30" as="geometry" />
+          <mxGeometry x="3070" y="41.5" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1237" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-849.9999999999999" y="-130" width="210" height="60" as="geometry" />
@@ -926,7 +926,7 @@
           <mxGeometry x="1700" y="900" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1406" value="&lt;span&gt;t_lodging_cancel_as_header&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="997" width="341.89" height="109" as="geometry" />
+          <mxGeometry x="3058" y="353.5" width="341.89" height="109" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1407" value="reserve_no" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1406" vertex="1">
           <mxGeometry y="33" width="140" height="24" as="geometry" />
@@ -947,10 +947,10 @@
           <mxGeometry x="176.55667045963932" y="60" width="128.9665873590566" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1425" value="&lt;span&gt;キャンセル情報ヘッダテーブル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="966" width="340" height="30" as="geometry" />
+          <mxGeometry x="3058" y="322.5" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1426" value="&lt;span&gt;t_lodging_cancel_as_details&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="871" width="341.89" height="249" as="geometry" />
+          <mxGeometry x="3070" y="596" width="341.89" height="249" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1427" value="reserve_no" style="strokeColor=none;part=1;resizeHeight=0;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;swimlaneFillColor=#ffffff;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=7;fillColor=none;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;spacing=0;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="jNWc2fwv66Wsc-9iDNfM-1426" vertex="1">
           <mxGeometry y="33" width="140" height="24" as="geometry" />
@@ -995,7 +995,7 @@
           <mxGeometry x="176.55667045963932" y="60" width="128.9665873590566" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1445" value="&lt;span&gt;キャンセル情報明細テーブル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="840" width="340" height="30" as="geometry" />
+          <mxGeometry x="3070" y="565" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jNWc2fwv66Wsc-9iDNfM-1446" value="&lt;span&gt;&amp;nbsp;t_lodging_facility_notice&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;swimlane;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontStyle=0;swimlaneFillColor=#ffffff;startSize=30;whiteSpace=wrap;fontSize=13;fontColor=#000000;fontStyle=3;align=center;fillColor=#e0e0e0;whiteSpace=wrap;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3320" y="871" width="341.89" height="89" as="geometry" />
