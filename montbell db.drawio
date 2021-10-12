@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:53:43.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="pgvzfk8ftTFE1VsdNIUr" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T10:16:01.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="6QOaALxzMmvk-9xHmiJi" version="15.5.1" type="github">
   <diagram id="AatjL-a4eU6nJETNqXJs" name="Page-1">
     <mxGraphModel dx="3035" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1485,19 +1485,6 @@
               </Array>
               <mxPoint x="4000" y="400" as="sourcePoint" />
               <mxPoint x="2490" y="330" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="aZ.SwLaBgXGg" id="Qmmrh6uTXOJ7d2tVx4Y6-26">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=ERmany;startSize=10;;endArrow=ERone;endSize=16;;" edge="1" parent="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="896" y="-390" />
-                <mxPoint x="896" y="-240" />
-                <mxPoint x="68" y="-240" />
-              </Array>
-              <mxPoint x="1476.1100000000001" y="-390" as="sourcePoint" />
-              <mxPoint x="-40" y="-240" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
